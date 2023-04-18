@@ -1,11 +1,6 @@
-# <div align="center"> Hi! I'm Jefandra Ayu Qoirunnissa </div>
+# Hi! I'm Jefandra Ayu Qoirunnissa
 
 I'm an undergraduate student of multimedia from Indonesia. Currently, I'm learning a lot of things such as web and mobile app development, game programming, UI/UX, audio production, 2D animation, digital marketing, etc. My main interests are art and design, so I aspire to be a great illustrator and graphic designer. You can view my artworks on my instagram and checkout my linkedin profile by clicking the link below.
-
-<div align="center">
-<img src="![image](https://user-images.githubusercontent.com/131151158/232790341-468108e8-7814-4d8e-b19a-983fabfc89ed.jpeg)
-" align="center" style="width: 100%" />
-</div>  
   
 
 ## 🌐 Socials:
