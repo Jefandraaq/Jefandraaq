@@ -2,7 +2,6 @@
 
 I'm an undergraduate student of multimedia from Indonesia. Currently, I'm learning a lot of things such as web and mobile app development, game programming, UI/UX, audio production, 2D animation, digital marketing, etc. My main interests are art and design, so I aspire to be a great illustrator and graphic designer. You can view my artworks on my instagram and checkout my linkedin profile by clicking the link below.
   
-<div align="right" style="widht: 50%"> ![7A9CB4CF-CE6B-4AEA-A67C-B2E5710C0DF0](https://user-images.githubusercontent.com/131151158/232790958-3a31e3df-6063-4104-b07a-a36e051d747c.jpeg) </div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jjaquoiseart) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/JefandraAyuQoirunnissa) 
